@@ -1,0 +1,7 @@
+notebook
+yfinance
+pandas
+requests
+beautifulsoup4
+plotly
+kaleido
